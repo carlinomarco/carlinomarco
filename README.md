@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Marco Carlino 👋</h1>
+<h1 align="center">Marco Carlino</h1>
 <h3 align="center">IT Network & Security Student · Brixen, Italy → Vienna</h3>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a final-year IT student at LBS Bozen (graduation 2026) from South Tyrol, Italy.
 I'm fascinated by how systems work under the hood and the unlimited potential technology offers.
@@ -11,14 +11,14 @@ I'm fascinated by how systems work under the hood and the unlimited potential te
 Currently preparing for my **CCNA** (Cisco Certified Network Associate) and building a
 full-stack **Hybrid Honeypot Lab** as my graduation project.
 
-- 🎯 Looking for a **Junior IT position in Vienna** from Summer/Autumn 2026
-- 📚 Currently studying for **CCNA** (exam: May/June 2025)
-- 🌱 Next goals: **TryHackMe**, **AWS certifications**, **CompTIA Security+**
-- 🌍 Languages: Italian 🇮🇹 (native) · German 🇩🇪 (native) · English 🇬🇧 (fluent)
+- Looking for a **Junior IT position in Vienna** from Summer/Autumn 2026
+- Currently studying for **CCNA** — exam planned May/June 2025
+- Next goals: TryHackMe · AWS certifications · CompTIA Security+
+- Languages: Italian (native) · German (native) · English (fluent)
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Networking**
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
@@ -36,10 +36,10 @@ full-stack **Hybrid Honeypot Lab** as my graduation project.
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🍯 [Hybrid Honeypot Lab](https://github.com/carlinomarco/hybrid-honeypot-lab)
-> Graduation project — Real-world attack detection and analysis
+### [Hybrid Honeypot Lab](https://github.com/carlinomarco/hybrid-honeypot-lab)
+*Graduation project — Real-world attack detection and analysis*
 
 | Component | Technology |
 |-----------|------------|
@@ -52,16 +52,16 @@ full-stack **Hybrid Honeypot Lab** as my graduation project.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certificate | Issuer | Status |
 |-------------|--------|--------|
-| CCNA – Cisco Certified Network Associate | Cisco | ⏳ In progress |
-| Agile Project Manager (Scrum & OKR) | Web Professional Institute | ✅ March 2026 |
+| CCNA – Cisco Certified Network Associate | Cisco | In progress |
+| Agile Project Manager (Scrum & OKR) | Web Professional Institute | March 2026 |
 
 ---
 
-## 📬 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlino--marco-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/carlino-marco)
 [![Email](https://img.shields.io/badge/Email-carlinomarco4@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlinomarco4@gmail.com)
