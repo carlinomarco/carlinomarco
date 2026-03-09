@@ -1,5 +1,5 @@
 <h1 align="center">Marco Carlino</h1>
-<h3 align="center">IT Network & Security Student · Brixen, Italy → Vienna</h3>
+<h3 align="center">IT Network & Security Student · Bozen, Italy → Vienna</h3>
 
 ---
 
